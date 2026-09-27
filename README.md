@@ -5,11 +5,7 @@
 </p>
 
 ### 👨‍💻 About Me
-I am a **Cyber Security Student** and **Full-Stack Developer** based in Malaysia 📍. I focus on building scalable web applications with a "Security-First" mindset.
-
-- 🛡️ **Current Focus:** Developing a **Phishing Awareness Simulator** for my Final Year Project.
-- 🚀 **Goals:** To bridge the gap between high-performance software and ironclad digital defense.
-- ⚡ **Fun Fact:** When I'm not debugging or pentesting, you'll find me on the football pitch or at the gym.
+Computer Science graduate | Web apps, Firebase & Claude Code | IT Support • Systems Analysis • QA
 
 ---
 
