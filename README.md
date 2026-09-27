@@ -5,7 +5,14 @@
 </p>
 
 ### 👨‍💻 About Me
-Computer Science graduate | Web apps, Firebase & Claude Code | IT Support • Systems Analysis • QA
+Hi, I'm Yslam 👋
+Computer Science graduate from UNITEN with an interest in IT support, systems analysis, software quality, and practical application development.
+- 🎓 Bachelor in Computer Science (Cyber Security) (Honours)
+- 💻 Built web applications using JavaScript, Firebase and AI-assisted development tools
+- 🤖 Working with Claude, Claude Code and ChatGPT
+- 🔎 Experience in technical research and troubleshooting
+- 🚀 Interested in Application Support, IT/System Analyst, Technical Support and QA opportunities
+- 📍 Kuala Lumpur, Malaysia
 
 ---
 
